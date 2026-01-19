@@ -1,2 +1,2 @@
-# arulvlzrs.io
+# arulvlzrs
 Tech Explorer
